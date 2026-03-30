@@ -4,6 +4,6 @@ This project focuses on building predictive models using Machine Learning algori
 
 🎯 Objective
 
-Analyze historical data
-Build predictive ML models
-Evaluate and compare model performance
+1)Analyze historical data
+2)Build predictive ML models
+3)Evaluate and compare model performance
